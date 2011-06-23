@@ -14,7 +14,7 @@ package
 			stage.align = StageAlign.TOP_LEFT;
 			stage.scaleMode = StageScaleMode.NO_SCALE;
 			
-			trace("hello world");
+			trace("hello world - June 23");
 		}
 	}
 }
