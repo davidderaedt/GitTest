@@ -8,6 +8,7 @@ package
 	{
 		public function GitTest()
 		{
+			// a comment
 			super();
 			
 			// support autoOrients
